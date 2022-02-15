@@ -1,7 +1,7 @@
 # MOVIE LOVE APP
 
 
-
+[APP DEMO LINK](https://clever-goldberg-eb6b55.netlify.app/)
 
 ![Screen Shot 2022-02-14 at 04.14.37.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1644802062884/feQoHHnSN.png)
 ##How to run this project:
